@@ -1,0 +1,41 @@
+# Entornos virtuales
+venv/
+venv*/
+env/
+.venv/
+
+# Python cache y compilados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Videos y archivos multimedia pesados (no subir a GitHub)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+data/*.mp4
+output/*.mp4
+
+# Archivos comprimidos y backups
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*~
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
